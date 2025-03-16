@@ -1,13 +1,16 @@
 import os
 import shutil
 
-path_url = r"fill file location in"
+path_url = r"..."
+
+folder_path = r"..."
 
 extensionList = {
     "pdf": "PDF",
     "xlsx": "Excel",
     "png": "Pictures",
-    "jpg": "Pictures"
+    "jpg": "Pictures",
+    "zip": "Zip"
 }
 
 def file_organizer(path_url):
